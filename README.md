@@ -1,9 +1,9 @@
 # Hi there 👋 How are you?
 
-My name is João, I'm on the path to becoming a software developer and getting my first job🖥💻
+<p>My name is João, I'm on the path to becoming a software developer and getting my first job🖥💻</p>
 
 ## About me 
-👨🏻‍💻 Information systems student
+<p>👨🏻‍💻 Information systems student</p>
 
 ## Techs and tools 
 <div align="center">
